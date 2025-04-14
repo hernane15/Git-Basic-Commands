@@ -1,4 +1,4 @@
-## Comandos Básicos do GIT.🔗
+## Comandos Básicos do GIT🔗
 #### Enviei um pasta com arquivo pdf - comandos básicos criado pelo Github.
 
 <h3>1. git init</h3><p>Inicia um repositório Git no diretório atual.</p>
